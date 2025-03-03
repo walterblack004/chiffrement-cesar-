@@ -12,6 +12,9 @@ Ce projet implémente le chiffrement de César en Python. Le chiffrement de Cés
 
 Ce projet est un exemple de code Python. Pour l'utiliser :
 
-1. Clonez ce dépôt :
-   ```bash
-   git clone https://github.com/walterblack004/chiffrement-cesar-.git
+1. Clonez ce dépôt
+2. Ouvrez le fichier code_cesar.py
+3. Exécutez le fichier pour voir le code en action
+
+
+   
